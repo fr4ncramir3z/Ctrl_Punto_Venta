@@ -1,0 +1,26 @@
+/* ===== CONTENEDOR GENERAL ===== */
+    .container {
+      max-width: 600px;
+      margin: 40px auto;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ===== ESTILOS DEL FORMULARIO ===== */
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-group label {
+      display: block;
+      margin: 6px;
+      font-weight: bold;
+    }
+
+    .form-group input,
+    .form-group select {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      box-sizing: border-box;
+    }
